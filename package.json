@@ -1,0 +1,14 @@
+{
+  "name": "gestion-productos-cli",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env index.js"
+  },
+  "description": "CLI en Node.js que consume la API pública [FakeStore](https://fakestoreapi.com/).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
